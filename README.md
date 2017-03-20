@@ -22,4 +22,4 @@ List of files:
 - 'pie_helper.py': Python file containing functions to create labels for Matplotlib pie charts
 - 'P3 - Exploring the data.ipynb': Jupyter notebook file documenting the initial data exploration
 - 'P3 (Wrangle OpenStreetMap Data) - submission.ipynb': Jupyter notebook file containing project submission
-- 'dand-env-mac.yaml' - relevant Conda environment file (note Python version is 2.7)
+- 'dand-env-mac.yaml': relevant Conda environment file (note Python version is 2.7)
