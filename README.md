@@ -2,7 +2,7 @@
 
 Udacity DAND Project 3 – Wrangle OpenStreetMap Data
 
-This is my submission for Project 3 ('Wrangle OpenStreetMap Data') on Udacity's Data Analyst Nanodegree. The project brief asked the student to download a dataset from [OpenStreetMap](www.openstreetmap.org) and use data wrangling/munging techniques to assess the quality of the data and make improvements where necessary. The data was then to be loaded into either a SQL or MongoDB database and queried to discover insights.
+This is my submission for Project 3 ('Wrangle OpenStreetMap Data') on Udacity's Data Analyst Nanodegree. The project brief asked the student to download a dataset from [OpenStreetMap](https://master.apis.dev.openstreetmap.org/) and use data wrangling/munging techniques to assess the quality of the data and make improvements where necessary. The data was then to be loaded into either a SQL or MongoDB database and queried to discover insights.
 
 The intended project outcomes were to demonstrate the student's ability to:
 - Assess the quality of the data for validity, accuracy, completeness, consistency and uniformity
